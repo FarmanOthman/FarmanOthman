@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @FarmanOthman
+- 👀 I’m interested in Full Stack Web Development, Data Science, and Machine Learning.
+- 🌱 I’m currently learning Python and exploring various web technologies and data science tools.
+- 💞️ I’m looking to collaborate on open-source projects related to web development, data analysis, and machine learning.
+- 📫 How to reach me: [farmaanothmaan@gmail.com]
+- 😄 Pronouns: He/Him
