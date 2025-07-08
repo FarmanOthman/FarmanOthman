@@ -12,7 +12,7 @@ I'm a Full Stack Developer, Currently learning new web technologies and data sci
 **Backend:** Express, Django, Laravel  
 **Databases:** MongoDB, PostgreSQL, MySQL  
 **Cloud:** AWS, Azure, Google Cloud  
-**Tools:** Git, Docker, Figma, Pandas, TensorFlow
+**Tools:** Git, Docker, Figma
 
 ## 📈 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarmanOthman&show_icons=true&theme=dark)](https://github.com/FarmanOthman)  
