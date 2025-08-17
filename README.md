@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Farman
 
-I'm a Full Stack Developer, Currently learning new web technologies and data science tools.  
+I'm a Web Developer, Currently learning new web technologies and data science tools.  
 
 ## 📬 Get in Touch
 - Email: [farmaanothmaan@gmail.com](mailto:farmaanothmaan@gmail.com)
@@ -10,7 +10,7 @@ I'm a Full Stack Developer, Currently learning new web technologies and data sci
 **Languages:** Python, TypeScript, Java, PHP  
 **Frontend:** Next, React, Tailwind
 **Backend:** Express, Django, Laravel  
-**Databases:** MongoDB, PostgreSQL, MySQL  
+**Databases:** PostgreSQL, MySQL  
 **Cloud:** AWS, Azure, Google Cloud  
 **Tools:** Git, Docker, Figma
 
