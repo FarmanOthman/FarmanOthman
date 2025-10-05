@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Farman
 
-I'm a Web Developer, Currently learning new web technologies and data science tools.  
+I'm a Web Developer, Currently learning new web technologies.  
 
 ## 📬 Get in Touch
 - Email: [farmaanothmaan@gmail.com](mailto:farmaanothmaan@gmail.com)
